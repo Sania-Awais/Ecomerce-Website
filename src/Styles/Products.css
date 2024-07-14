@@ -1,0 +1,17 @@
+.products {
+    padding: 80px 20px;
+    text-align: center;
+  }
+  
+  .product-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .product-item {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
